@@ -10,7 +10,6 @@
 ### 🧑‍🎓 About Me
 
 - 🎓 I’m currently pursuing **B.E. Computer Science** at *Sri Krishna College of Engineering and Technology* (2027).
-- 🔭 I’m currently working on: [Expense Tracker App](https://github.com/Yuvi-97/Expense-Tracker-App)
 - 🌱 I’m improving my skills in **Competitive Programming**
 - 💬 Ask me about **React, Node.js, Spring Boot, and C++**
 - 📫 How to reach me: **yuviy2006@gmail.com**
